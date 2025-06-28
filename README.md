@@ -22,3 +22,12 @@ This project is part of my **Machine Learning Internship** with **CodeAlpha**. T
 - Accuracy
 - Precision, Recall, F1-Score
 - ROC-AUC Score
+
+## 📊 Model Performance:
+  **Diabetes Model**
+    ROC-AUC: 0.8196
+  **Heart Disease model**
+    ROC-AUC: 0.9008
+  **Breast Cancer model**
+    ROC-AUC: 0.9973
+  

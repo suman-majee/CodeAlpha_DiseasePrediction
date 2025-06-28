@@ -32,5 +32,5 @@ This project is part of my **Machine Learning Internship** with **CodeAlpha**. T
     -ROC-AUC: 0.9973
 
 ## 👩‍💻 Intern:
--Suman Majee
+- Suman Majee
   

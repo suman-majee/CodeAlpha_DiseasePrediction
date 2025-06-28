@@ -24,10 +24,10 @@ This project is part of my **Machine Learning Internship** with **CodeAlpha**. T
 - ROC-AUC Score
 
 ## 📊 Model Performance:
-  **Diabetes Model**
-    ROC-AUC: 0.8196
-  **Heart Disease model**
-    ROC-AUC: 0.9008
-  **Breast Cancer model**
-    ROC-AUC: 0.9973
+ - **Diabetes Model**
+    -ROC-AUC: 0.8196
+-  **Heart Disease model**
+    -ROC-AUC: 0.9008
+ - **Breast Cancer model**
+    -ROC-AUC: 0.9973
   
